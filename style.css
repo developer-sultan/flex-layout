@@ -1,1 +1,9 @@
-
+.flex_container{
+    max-width: 50vw;
+}
+.flex_container > div{
+    background-color: #99CF1C;
+    border: 2px solid #444;
+    padding: 0.7rem;
+    font-size: 2rem;
+}
